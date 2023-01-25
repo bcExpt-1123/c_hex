@@ -16,7 +16,7 @@ const ESign = () => {
       <p>We do not issue or provide paper versions of our electronic documents. In order to communicate with Calahex in order to send or receive electronic documents you must have a mobile device (iPhone or Android) or a computer with an internet connection,
       compatible internet browser (such as Chrome, Safari, Opera or Microsoft Edge), and software that is capable of reading and displaying portable document format files (PDF). In addition you will need access to your email address which is registered
       with your account and an e-mail application that can display text messages. Any documents or messages we sent to you are deemed delivered to your email address on file. You agree that we are not responsible for any electronic communications you
-        did not receive due to outdated email, or your inability to receive electronic communications.</p>
+        did not receive due to outdated email, or your inability to receive electronic communications...</p>
     </HelpDiv>
   )
 }
