@@ -285,26 +285,6 @@ const FutureTrading = (props) => {
     }, [cryptoLists])
 
 
-    // const handleClick = (event, type) => {
-    //     if (type === 'usd') {
-    //         setAnchorElUSD(event.currentTarget);
-    //         return;
-    //     }
-    //     if (type === 'alts') {
-    //         setAnchorElALTS(event.currentTarget);
-    //         return;
-    //     }
-    //     if (type === 'innov') {
-    //         setAnchorElINNOV(event.currentTarget);
-    //         return;
-    //     }
-    // };
-
-    // const handleClose = () => {
-    //     setAnchorElUSD(null);
-    //     setAnchorElALTS(null);
-    //     setAnchorElINNOV(null);
-    // };
 
     const bookShow = (show) => {
         setShow(show);
