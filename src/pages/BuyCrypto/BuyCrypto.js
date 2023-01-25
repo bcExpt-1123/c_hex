@@ -134,7 +134,7 @@ const BuyCrypto = (props) => {
                     <CardContent>
                       <Typography className="cardTitle" color="textSecondary" gutterBottom>
                         ETH / USDT
-                                        </Typography>
+                      </Typography>
                       <Typography variant="subtitle1" className="cardPrice" component="h2">
                         {cryptoLists.length > 0 && Number(cryptoLists.filter(crypto => crypto.name == "ETH_USDT")[0].price).toFixed(2)}
                       </Typography>
